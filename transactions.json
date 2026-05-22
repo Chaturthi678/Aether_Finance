@@ -1,0 +1,82 @@
+[
+  {
+    "id": "TXN1001",
+    "date": "2026-05-20",
+    "amount": 149,
+    "type": "DEBIT",
+    "narration": "UPI/DR/Zomato/RZPY/Axis",
+    "category": "Food & Dining"
+  },
+  {
+    "id": "TXN1002",
+    "date": "2026-05-19",
+    "amount": 45,
+    "type": "DEBIT",
+    "narration": "UPI/DR/TapriChai/Paytm",
+    "category": "Food & Dining"
+  },
+  {
+    "id": "TXN1003",
+    "date": "2026-05-18",
+    "amount": 72000,
+    "type": "CREDIT",
+    "narration": "NEFT/CR/HDFC-SALARY-BOOST",
+    "category": "Income"
+  },
+  {
+    "id": "TXN1004",
+    "date": "2026-05-18",
+    "amount": 1200,
+    "type": "DEBIT",
+    "narration": "UPI/DR/Amazon-In/Shopping",
+    "category": "Shopping"
+  },
+  {
+    "id": "TXN1005",
+    "date": "2026-05-16",
+    "amount": 350,
+    "type": "DEBIT",
+    "narration": "UPI/DR/Swiggy/Instamart",
+    "category": "Food & Dining"
+  },
+  {
+    "id": "TXN1006",
+    "date": "2026-05-15",
+    "amount": 500,
+    "type": "DEBIT",
+    "narration": "ATM/WDL/ICICI-Mumbai",
+    "category": "Others"
+  },
+  {
+    "id": "TXN1007",
+    "date": "2026-05-12",
+    "amount": 2499,
+    "type": "DEBIT",
+    "narration": "UPI/DR/Jio-Fiber/AutoPay",
+    "category": "Bills & Utilities"
+  },
+  {
+    "id": "TXN1008",
+    "date": "2026-05-10",
+    "amount": 150,
+    "type": "CREDIT",
+    "narration": "UPI/CR/Friend-Split/GPay",
+    "category": "Others"
+  },
+  {
+    "id": "TXN1009",
+    "date": "2026-05-09",
+    "amount": 450,
+    "type": "DEBIT",
+    "narration": "UPI/DR/OlaCabs/Transport",
+    "category": "Transport"
+  },
+  {
+    "id": "TXN1010",
+    "date": "2026-05-05",
+    "amount": 850,
+    "type": "DEBIT",
+    "narration": "UPI/DR/BookMyShow/Movies",
+    "category": "Entertainment"
+  }
+]
