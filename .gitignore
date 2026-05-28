@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+
+# Local databases and transaction JSONs
+database.db
+transactions.json
+users.json
+*.db
+*.log
+
+# Environment variables containing API keys
+.env
+.env.local
+
+# IDE configurations
+.vscode/
+.DS_Store
+
+# Temporary scripts
+create_ppt.py
+create_ppt_v2.py
